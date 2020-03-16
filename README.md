@@ -9,4 +9,4 @@ Relationship dataset last update on 16 Mar 2020.
 
 Other open data from CHP can be obtain from https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent.
 
-![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK/blob/master/network1.PNG)
+![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK_NetworkX/blob/master/network1.PNG)
