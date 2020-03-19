@@ -3,7 +3,7 @@ Relationship visualization for Wuhan Coronavirus (2019-nCov) cases in Hong Kong 
 
 Source open data "Residential buildings in which probable/confirmed cases have resided in the past 14 days or non-residential building with 2 or more probable/confirmed cases in the past 14 days (English)" & "Details of probable/confirmed cases of COVID-19 infection in Hong Kong (English)" from [Centre for Health Protection Hong Kong (CHP)](https://www.chp.gov.hk/en/index.html) to build relationship dataset (hkcase_relationship.csv).
 
-Relationship dataset last update on 16 Mar 2020.
+Relationship dataset last update on 18 Mar 2020.
 
 * 0 = Imported from "Case classification" column in dataset "Details of probable/confirmed cases of COVID-19 infection in Hong Kong (English)"
 
