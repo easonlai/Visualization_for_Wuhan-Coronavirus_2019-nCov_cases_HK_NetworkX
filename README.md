@@ -12,3 +12,13 @@ Relationship dataset last update on 18 Mar 2020.
 Other open data from CHP can be obtain from https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent.
 
 ![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK_NetworkX/blob/master/network1.PNG)
+
+
+Maybe with extra [Geo-tag data](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK), can build more interesting relationship graph with mapping.
+
+![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK_NetworkX/blob/master/network2.PNG)
+
+
+Below is sample BI visualization from PowerBI (explore_with_powerbi_network.pbix)
+
+![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK_NetworkX/blob/master/network2_pbi.PNG)
