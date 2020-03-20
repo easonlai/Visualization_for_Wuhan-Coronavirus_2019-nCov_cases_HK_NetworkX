@@ -14,7 +14,7 @@ Other open data from CHP can be obtain from https://data.gov.hk/en-data/dataset/
 ![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK_NetworkX/blob/master/network1.PNG)
 
 
-Maybe with extra [Geo-tag data](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK), can build more interesting relationship graph with mapping.
+Maybe with extra [Geo-tag data](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK), can build more interesting relationship graph mapping with NetworkX.
 
 ![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK_NetworkX/blob/master/network2.PNG)
 
